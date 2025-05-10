@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrakashTribhuwan97
-- 👀 I’m interested in SQL, Python, Machine Learning,
-- Tableau, Power BI
+- 👀 I’m interested in SQL, Power BI, Python, Machine Learning
 - 🌱 I’m currently learning Puthon, Machine Learning, SQL, Power BI, Tableau
 - 💞️ I’m looking to collaborate on any Machine Learning Projects, Dashbaord making using Tableau or Power BI
 - 📫 How to reach me prakash.v.tribhuwan@gmail.com
